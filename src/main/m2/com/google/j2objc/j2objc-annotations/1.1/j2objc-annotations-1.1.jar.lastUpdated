@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 04 23:47:54 CET 2022
+https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.error=Could not transfer artifact com.google.j2objc\:j2objc-annotations\:jar\:1.1 from/to github (https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network)\: Authentication failed for https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar 401 Unauthorized
+@default-github-https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.lastUpdated=1670194073346
+https\://repo1.maven.org/maven2/.lastUpdated=1670194074697

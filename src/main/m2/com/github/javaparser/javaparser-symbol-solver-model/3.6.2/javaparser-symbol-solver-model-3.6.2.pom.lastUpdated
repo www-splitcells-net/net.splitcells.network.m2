@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 04 23:47:47 CET 2022
+https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.error=Could not transfer artifact com.github.javaparser\:javaparser-symbol-solver-model\:pom\:3.6.2 from/to github (https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network)\: Authentication failed for https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/com/github/javaparser/javaparser-symbol-solver-model/3.6.2/javaparser-symbol-solver-model-3.6.2.pom 401 Unauthorized
+@default-github-https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.lastUpdated=1670194067690
+https\://repo1.maven.org/maven2/.lastUpdated=1670194067742

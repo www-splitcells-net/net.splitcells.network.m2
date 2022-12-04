@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 04 23:48:23 CET 2022
+https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.error=Could not transfer artifact org.commonmark\:commonmark\:pom\:0.17.2 from/to github (https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network)\: Authentication failed for https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/org/commonmark/commonmark/0.17.2/commonmark-0.17.2.pom 401 Unauthorized
+@default-github-https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.lastUpdated=1670194103504
+https\://repo1.maven.org/maven2/.lastUpdated=1670194103561

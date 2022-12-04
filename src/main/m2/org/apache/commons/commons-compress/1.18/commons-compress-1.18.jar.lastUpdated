@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 04 23:48:40 CET 2022
+https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.error=Could not transfer artifact org.apache.commons\:commons-compress\:jar\:1.18 from/to github (https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network)\: Authentication failed for https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar 401 Unauthorized
+@default-github-https\://maven.pkg.github.com/www-splitcells-net/net.splitcells.network/.lastUpdated=1670194119089
+https\://repo1.maven.org/maven2/.lastUpdated=1670194120068
